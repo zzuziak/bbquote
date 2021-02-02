@@ -1,4 +1,6 @@
 # ----------------------------------
+HEROKU_EMAIL_ADDRESS=zuberzuzanna@gmail.com
+
 #          INSTALL & TEST
 # ----------------------------------
 install_requirements:

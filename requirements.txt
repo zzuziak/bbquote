@@ -11,3 +11,6 @@ flake8
 pytest
 yapf
 
+# web
+streamlit
+
